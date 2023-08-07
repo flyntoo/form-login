@@ -1,0 +1,58 @@
+*{
+    color: white;
+
+}
+
+nav{
+    justify-content: right;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+
+}
+
+h6{
+    text-align: center;
+    color: white;
+    font-size: 18px
+}
+
+.ketik {
+    border-radius: 5px;
+}
+p{
+    color: white;
+    text-align: center;
+}
+nav{
+    justify-content: right;
+}
+
+.radio{
+    color: white;
+}
+
+#card{
+    border-radius: 10px;
+    margin:auto;
+ 
+}
+ul{
+    border: 10px;
+}
+#harga{
+    font-size: 25px;
+    background-color: rgb(6, 143, 255);
+    border-radius: 10px
+}
